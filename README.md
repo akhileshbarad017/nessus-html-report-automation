@@ -113,4 +113,4 @@ Penetration Tester | VAPT Analyst | Bug Bounty Hunter
 
 ---
 
-## ⭐ If this saved your time — give it a star!
+## ⭐ If this saved your time — give it a star! 
